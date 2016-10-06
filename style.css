@@ -1,3 +1,18 @@
 body {
     font-family: Helvetica;
 }
+
+#player-one-score {
+    color: blue;
+    font-style: italic;
+}
+
+#player-two-score {
+    color: red;
+    font-weight: bold;
+}
+
+img {
+    width: 50%;
+    -webkit-filter: grayscale(100%);
+}
